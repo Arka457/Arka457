@@ -3,7 +3,7 @@
 <h1 align=center>Hi I'm Arkaprava Dutta</h1>
 <h3 align=center>Pursuing B.tech in Computer Science & Engineering</h3>
 
-🔭 I’m currently Working on my protfolio Website<br>👯 I’m looking to collaborate on Frontend Project<br>🤝 I’m looking for help with software project<br>🌱 I’m currently learning java backend<br>💬 Ask me about frontend any problems<br>⚡ Fun fact
+🔭 I’m currently Working on my protfolio Website<br>👯 I’m looking to collaborate on Frontend Project<br>🤝 I’m looking for help with software project<br>🌱 I’m currently learning java backend<br>💬 Ask me about frontend any problems<br>
 
 
 ## 🌐 Socials:
